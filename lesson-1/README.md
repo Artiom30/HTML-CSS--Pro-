@@ -1,4 +1,4 @@
-![subject-lesson-1](../materials/subject-lesson-1.png)
+![subject-lesson-1](../lesson-1/materials/subject-lesson-1.png)
 
 ## Темы :
 
