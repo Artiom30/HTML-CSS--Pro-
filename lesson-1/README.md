@@ -1,5 +1,7 @@
 ![subject-lesson-1](../lesson-1/materials/subject-lesson-1.png)
 
+[**Lesson notes**](https://artiom30.github.io/HTML-CSS--Pro-/lesson-1/lesson-notes/index.html)
+
 ## Темы :
 
 1. Создание ячеек элементов grid
