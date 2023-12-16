@@ -40,6 +40,6 @@ lesson-video [link](https://youtu.be/kOLM2s20sZY)
 
 - <span style="color:blue"> [<span style="color:blue">**homework-1**</span>](https://artiom30.github.io/HTML-CSS--Pro-/lesson-1/homework/index.html)</span>
 
-- <span style="color:blue"> [<span style="color:blue">**homework-2**</span>](https://artiom30.github.io/HTML-CSS--Pro-/lesson-2/homework/index.htm)</span>
+- <span style="color:blue"> [<span style="color:blue">**homework-2**</span>](https://artiom30.github.io/HTML-CSS--Pro-/lesson-2/homework/index.html)</span>
 
 - <span style="color:blue"> [<span style="color:blue">**homework-3**</span>]()</span>
