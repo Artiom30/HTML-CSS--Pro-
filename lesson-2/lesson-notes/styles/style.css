@@ -1,0 +1,48 @@
+@import "normolize.css";
+@import "nulling-styles.css";
+@import "fonts.css";
+@import "animation-hover.css";
+@import "variables.css";
+
+body {
+	font-family: 'Prompt', sans-serif;
+	font-weight: 500;
+	background-color: rgb(36, 19, 63);
+}
+
+h1 {
+	font-weight: 900;
+	font-family: 'Prompt', sans-serif;
+
+}
+
+h2 {
+	font-family: 'Prompt', sans-serif;
+	font-weight: 700;
+}
+
+a {
+	font-family: 'Prompt', sans-serif;
+	font-weight: 500;
+	color: red;
+	text-decoration: none;
+}
+
+h2 {
+	margin: 20px 20px 30px 20px;
+}
+
+li {
+	list-style: auto inside;
+	margin: 10px 15px 5px 35px;
+}
+
+.container {
+	max-width: 500px;
+	width: 100%;
+	min-height: 500px;
+	padding: 20px 20px;
+	margin: 0 auto;
+	background: #bde1ca;
+	border-radius: 30px;
+}
