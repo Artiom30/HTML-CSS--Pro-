@@ -6,37 +6,51 @@
 
 [**lesson notes**](https://artiom30.github.io/HTML-CSS--Pro-/lesson-1/lesson-notes/index.html)
 
-lesson-video [link](https://www.youtube.com/watch?v=5Ijqb1wLcvc)
+[lesson-video](https://www.youtube.com/watch?v=5Ijqb1wLcvc)
 
-- <span style="color:green">**lesson-2** </span>- Семантические теги HTML5. Формы. Типы полей вовода данных.
+---
+
+📌 <span style="color:green">**lesson-2** </span>- Семантические теги HTML5. Формы. Типы полей вовода данных.
 
 [**lesson notes**](https://artiom30.github.io/HTML-CSS--Pro-/lesson-2/lesson-notes/index.html)
 
-lesson-video [link](https://youtu.be/TBw6Ga1e92k)
+[lesson-video](https://youtu.be/TBw6Ga1e92k)
 
-- <span style="color:green">**lesson-3** </span>-
+---
 
-lesson-video [link](https://youtu.be/KARjHRoRe_4)
+📌 <span style="color:green">**lesson-3** </span>-
 
-- <span style="color:green">**lesson-4** </span>-
+[lesson-video](https://youtu.be/KARjHRoRe_4)
 
-lesson-video [link](https://youtu.be/Q0H_DpzuPGE)
+📌 <span style="color:green">**lesson-4** </span>-
 
-- <span style="color:green">**lesson-5** </span>-
+[lesson-video](https://youtu.be/Q0H_DpzuPGE)
 
-lesson-video [link](https://youtu.be/VDD-4CgY9B4)
+---
 
-- <span style="color:green">**lesson-6** </span>-
+📌 <span style="color:green">**lesson-5** </span>-
 
-lesson-video [link](https://youtu.be/CML0LNJMwE0)
+[lesson-video](https://youtu.be/VDD-4CgY9B4)
 
-- <span style="color:green">**lesson-7** </span>-
+---
 
-lesson-video [link](https://youtu.be/BhAYL46P3PI)
+📌 <span style="color:green">**lesson-6** </span>-
 
-- <span style="color:green">**lesson-8** </span>-
+[lesson-video](https://youtu.be/CML0LNJMwE0)
 
-lesson-video [link](https://youtu.be/kOLM2s20sZY)
+---
+
+📌 <span style="color:green">**lesson-7** </span>-
+
+[lesson-video](https://youtu.be/BhAYL46P3PI)
+
+---
+
+📌 <span style="color:green">**lesson-8** </span>-
+
+[lesson-video](https://youtu.be/kOLM2s20sZY)
+
+---
 
 ## <span style="color:blue">Links for homeworks :</span>
 
