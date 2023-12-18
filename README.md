@@ -8,7 +8,9 @@
 
 lesson-video [link](https://www.youtube.com/watch?v=5Ijqb1wLcvc)
 
-- <span style="color:green">**lesson-2** </span>-
+- <span style="color:green">**lesson-2** </span>- Семантические теги HTML5. Формы. Типы полей вовода данных.
+
+[**lesson notes**](https://artiom30.github.io/HTML-CSS--Pro-/lesson-2/lesson-notes/index.html)
 
 lesson-video [link](https://youtu.be/TBw6Ga1e92k)
 
