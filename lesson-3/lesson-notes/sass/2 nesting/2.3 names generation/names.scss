@@ -1,0 +1,11 @@
+.product {
+    width: 200px;
+
+    &Name {
+        color: green;
+    }
+
+    & &Image {
+        width: 100%;
+    }
+}

@@ -1,0 +1,15 @@
+div {
+  height: 200px;
+
+  p {
+    color: #08cc0f;
+
+    a {
+      color: inherit;
+
+      &:hover {
+        color: yellow;
+      }
+    }
+  }
+}

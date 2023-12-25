@@ -1,0 +1,12 @@
+$imagesPath: "../assets/images";
+
+header {
+    background: url(#{$imagesPath}/back.jpg);
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+footer {
+    background: url(#{$imagesPath}/back.jpg);
+    height: 200px;
+}

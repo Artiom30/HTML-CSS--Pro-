@@ -1,0 +1,10 @@
+.product {
+    width: 200px;
+
+    @media (max-width: 767px) {
+        width: auto;
+    }
+    @media (min-width: 767px) and (max-width: 1000px) {
+        width: 300px;
+    }
+}

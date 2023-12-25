@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,GAAG,CAAC;EACF,KAAK,EAAE,KAAW;EAClB,UAAU,EAAE,IAAI;EAChB,MAAM,EAAE,KAAU;EAClB,OAAO,EAAE,IAAQ;EACjB,MAAM,EAAE,GAAW;CACpB",
+    "sources": [
+        "math.scss"
+    ],
+    "names": [],
+    "file": "math.css"
+}

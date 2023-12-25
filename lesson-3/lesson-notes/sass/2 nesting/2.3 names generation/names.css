@@ -1,0 +1,12 @@
+.product {
+  width: 200px;
+}
+
+.productName {
+  color: green;
+}
+
+.product .productImage {
+  width: 100%;
+}
+/*# sourceMappingURL=names.css.map */

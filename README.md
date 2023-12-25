@@ -18,7 +18,9 @@
 
 ---
 
-📌 <span style="color:green">**lesson-3** </span>-
+📌 <span style="color:green">**lesson-3** </span>- Препроцессор SASS на практике.
+
+[**lesson notes**](https://github.com/Artiom30/HTML-CSS--Pro-/tree/main/lesson-2/lesson-notes/sass)
 
 [lesson-video](https://youtu.be/KARjHRoRe_4)
 

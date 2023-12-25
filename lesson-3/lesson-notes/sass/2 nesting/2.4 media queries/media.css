@@ -1,0 +1,16 @@
+.product {
+  width: 200px;
+}
+
+@media (max-width: 767px) {
+  .product {
+    width: auto;
+  }
+}
+
+@media (min-width: 767px) and (max-width: 1000px) {
+  .product {
+    width: 300px;
+  }
+}
+/*# sourceMappingURL=media.css.map */
