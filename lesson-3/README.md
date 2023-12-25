@@ -1,6 +1,6 @@
 ![subject-lesson-3](../lesson-3/materials/subject-lesson-3.png)
 
-[**Примеры кода**](https://github.com/Artiom30/HTML-CSS--Pro-/tree/main/lesson-2/lesson-notes/sass)
+[**Примеры кода**](https://github.com/Artiom30/HTML-CSS--Pro-/tree/main/lesson-3/lesson-notes/sass)
 
 ### Темы :
 
