@@ -1,0 +1,7 @@
+img {
+    transition-duration: 1s;
+}
+
+img:hover {
+    transform: rotateY(130deg);
+}
