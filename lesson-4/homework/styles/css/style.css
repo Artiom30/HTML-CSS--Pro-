@@ -621,6 +621,9 @@ body {
   width: 8px;
   height: 14px;
 }
+.fetured__pagination-page {
+  color: inherit;
+}
 
 .brand-item__image-wrapper {
   position: relative;
