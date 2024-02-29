@@ -1,6 +1,6 @@
 # Урок 2.<p style="font-size:18px">Семантические теги HTML5 . Формы. Типы полей ввода данных .</p>
 
-[**Lesson notes**](https://artiom30.github.io/HTML-CSS--Pro-/lesson-1/lesson-notes/index.html)
+[**Lesson notes**](https://artiom30.github.io/HTML-CSS--Pro-/lesson-2/lesson-notes/index.html)
 
 ## Темы :
 

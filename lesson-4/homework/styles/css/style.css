@@ -622,7 +622,7 @@ body {
   height: 14px;
 }
 .fetured__pagination-page {
-  color: var(--color18);
+  color: inherit;
 }
 
 .brand-item__image-wrapper {

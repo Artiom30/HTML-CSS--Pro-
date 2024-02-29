@@ -28,7 +28,7 @@
 
 ---
 
-📌 <span style="color:green">**lesson-5** </span>-
+📌 <span style="color:green">**lesson-5** </span>- Практическое применение Bootstrap.
 
 ⏯[**lesson-video**](https://youtu.be/VDD-4CgY9B4)
 
@@ -61,3 +61,5 @@
 - <span style="color:blue"> [<span style="color:blue">**homework-3**</span>](https://artiom30.github.io/HTML-CSS--Pro-/lesson-3/homework/index.html)</span>
 
 - <span style="color:blue"> [<span style="color:blue">**homework-4**</span>](https://artiom30.github.io/HTML-CSS--Pro-/lesson-4/homework/catalog.html)</span>
+
+- <span style="color:blue"> [<span style="color:blue">**homework-5**</span>](https://artiom30.github.io/HTML-CSS--Pro-/lesson-5/homework/product.html)</span>
