@@ -1,8 +1,0 @@
-img {
-    transition-duration: 1s;
-}
-
-img:hover {
-    /*масштаб по оси x, масштаб по оси y*/
-    transform: scale(2, 0.5);
-}

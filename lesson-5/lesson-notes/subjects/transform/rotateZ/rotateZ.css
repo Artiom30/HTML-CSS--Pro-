@@ -1,7 +1,0 @@
-img {
-    transition-duration: 1s;
-}
-
-img:hover {
-    transform: rotateZ(-50deg);
-}
