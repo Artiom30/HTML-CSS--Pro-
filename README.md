@@ -29,7 +29,7 @@
 ---
 
 📌 <span style="color:green">**lesson-5** </span>- Практическое применение Bootstrap.
-
+📒[**lesson notes**](https://github.com/Artiom30/HTML-CSS--Pro-/tree/main/lesson-5)
 ⏯[**lesson-video**](https://youtu.be/VDD-4CgY9B4)
 
 ---
