@@ -1,6 +1,6 @@
 ![subject-lesson-4](../lesson-4/materials/subject-lesson-4.png)
 
-[**Примеры кода**](https://github.com/Artiom30/HTML-CSS--Pro-/lesson-4/lesson-notes/index.html)
+[**Примеры кода**](https://artiom30.github.io/HTML-CSS--Pro-/lesson-4/lesson-notes/index.html)
 
 ### Темы :
 
