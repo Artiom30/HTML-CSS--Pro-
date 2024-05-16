@@ -1,0 +1,150 @@
+.header {
+  background: $color1;
+  height: 74px;
+  padding: 18px 16px;
+  .container {
+    @include flexCenterSpaceBetwen;
+    position: relative;
+  }
+  &__left-wrp {
+    max-width: 111px;
+    width: 100%;
+    min-height: 38px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+  }
+  &__menu-dark {
+    position: absolute;
+    left: 0;
+    top: 74px;
+    width: 100%;
+    height: 106.5vh;
+    background: rgb(0, 0, 0, 0);
+    transition: all 0.8s ease 0s;
+    z-index: 0;
+  }
+  &__menu-dark.hidden,
+  &__menu.hidden {
+    display: none;
+  }
+}
+.logo {
+  display: block;
+  width: 44px;
+  height: 38px;
+}
+.user-icon,
+.cart-icon-wrp {
+  display: none;
+  cursor: pointer;
+}
+.bar-icon,
+.search-icon {
+  cursor: pointer;
+}
+.search-icon {
+  margin: 0 0 0 41px;
+}
+.menu {
+  position: absolute;
+  top: 57px;
+  right: 0px;
+  height: inherit;
+  width: 100%;
+  max-width: 232px;
+  max-height: inherit;
+  background: $color2;
+  overflow: auto;
+  box-shadow: 6px 4px 35px 0px rgba(0, 0, 0, 0.21);
+  z-index: 4;
+  &__close {
+    display: block;
+    position: absolute;
+    top: 16px;
+    right: 19px;
+  }
+  &__list {
+    padding: 37px 20px 37px 43px;
+  }
+  &__item_heading {
+    text-transform: uppercase;
+    font-weight: 700;
+    margin: 0 0 24px 0;
+  }
+  &__item-title {
+    color: $color3;
+    text-transform: uppercase;
+    margin: 0 0 12px 0;
+  }
+  &__sublist {
+    max-width: 178px;
+    width: 100%;
+    min-height: 79px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 11px;
+    margin: 0 0 20px 0;
+    .menu__sublist-item {
+      margin: 0 0 0 21.5px;
+    }
+  }
+  &__item-link {
+    display: block;
+    color: $color5;
+    line-height: 17px;
+  }
+}
+@media (min-width: 768px) {
+  .header {
+    padding-left: 32px;
+    padding-right: 32px;
+    &__right-wrp {
+      position: relative;
+      left: -9px;
+      top: 5px;
+    }
+  }
+
+  .user-icon {
+    display: inline-block;
+    margin: 0 40px 0 21px;
+  }
+  .cart-icon {
+    &-wrp {
+      display: inline;
+      position: relative;
+    }
+    &-counter {
+      position: absolute;
+      display: inline-block;
+      width: 19px;
+      height: 19px;
+      color: $color2;
+      text-align: center;
+      background: $color3;
+      border-radius: 50%;
+      right: -10px;
+      top: -23px;
+      font-size: 12px;
+      line-height: 19px;
+    }
+  }
+}
+
+@media (min-width: 1600px) {
+  .header {
+    height: 75px;
+    &__menu-dark {
+      display: block;
+      background: rgb(0, 0, 0, 0.5);
+      right: -232px;
+    }
+  }
+  .container {
+    margin: 0 auto;
+    max-width: 1140px;
+    width: 100%;
+  }
+}

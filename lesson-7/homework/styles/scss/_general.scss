@@ -1,0 +1,15 @@
+body {
+  font-family: $Lato;
+  font-size: 14px;
+  font-weight: 400;
+}
+.hidden {
+  display: none;
+}
+@media (min-width: 1600px) {
+  .container {
+    margin: 0 auto;
+    max-width: 1140px;
+    width: 100%;
+  }
+}
