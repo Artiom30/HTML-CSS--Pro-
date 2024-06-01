@@ -42,13 +42,13 @@
 
 ---
 
-📌 **lesson-7** -
+📌 **lesson-7** Урок - практикум. Вёрстка с макета.
 
 ⏯[**lesson-video**](https://youtu.be/BhAYL46P3PI)
 
 ---
 
-📌 **lesson-8** -
+📌 **lesson-8** - Урок - практикум. PIXEL-Perfect .
 
 ⏯[**lesson-video**](https://youtu.be/kOLM2s20sZY)
 
@@ -67,3 +67,7 @@
 📌 <span style="color:blue"> [<span style="color:blue">**homework-5**</span>](https://artiom30.github.io/HTML-CSS--Pro-/lesson-5/homework/product.html)</span>
 
 📌 <span style="color:blue"> [<span style="color:blue">**homework-6**</span>](https://artiom30.github.io/HTML-CSS--Pro-/lesson-6/homework/product.html)</span>
+
+📌 <span style="color:blue"> [<span style="color:blue">**homework-7**</span>](https://artiom30.github.io/HTML-CSS--Pro-/lesson-7/homework/cart.html)</span>
+
+📌 <span style="color:blue"> [<span style="color:blue">**homework-8**</span>](https://artiom30.github.io/HTML-CSS--Pro-/lesson-7/homework/registration.html)</span>

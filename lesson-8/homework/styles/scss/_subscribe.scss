@@ -1,0 +1,195 @@
+.subscribe {
+  background: url(#{$imagesPath}/subscribe/subscribe-background.jpg) no-repeat;
+  background-size: cover;
+  padding: 64px 20px 109px;
+  &_registration-page {
+    padding: 64px 0 109px;
+    .container {
+      @media (min-width: 1600px) {
+        padding: 0;
+      }
+    }
+  }
+  &__left {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  &__user-image {
+    position: relative;
+    left: -10px;
+    width: 92px;
+    height: 92px;
+    @media (min-width: 768px) {
+      left: -7px;
+      width: 96px;
+      height: 96px;
+    }
+    @media (min-width: 1600px) {
+      left: 0;
+    }
+  }
+  &__user-text {
+    max-width: 330px;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 22px;
+    font-style: italic;
+    color: $color11;
+    &_cart-page {
+      margin-top: 24px;
+      font-size: 19px;
+    }
+    &_registration-page {
+      margin-top: 28px;
+    }
+  }
+  &__right {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 65px;
+    &_cart-page {
+      margin-top: 72px;
+    }
+  }
+  &__title,
+  &__text {
+    max-width: 271px;
+    width: 100%;
+    text-align: center;
+    color: $color11;
+  }
+  &__title {
+    font-weight: 700;
+    font-size: 24px;
+    &_cart-page {
+      margin-bottom: 4px;
+    }
+    @media (min-width: 768px) {
+      margin-bottom: 0;
+    }
+  }
+  &__text {
+    font-size: 14px;
+    margin-bottom: 22px;
+    &_cart-page {
+      margin-bottom: 23px;
+    }
+  }
+  &__form {
+    height: 47px;
+  }
+  &__input,
+  &__button {
+    height: inherit;
+  }
+  &__input {
+    width: 185px;
+    background: $color13;
+    padding: 6px 21px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    float: left;
+    &_cart-page {
+      width: 239px;
+    }
+    &_registration-page {
+      width: 244px;
+    }
+  }
+  &__input::-webkit-input-placeholder {
+    color: $color11;
+    opacity: 0.671;
+  }
+  &__input::-ms-input-placeholder {
+    color: $color11;
+    opacity: 0.671;
+  }
+  &__input::-moz-placeholder {
+    color: $color11;
+    opacity: 0.671;
+  }
+  &__input :-moz-placeholder {
+    color: $color11;
+    opacity: 0.671;
+  }
+  &__button {
+    color: $color2;
+    font-size: 14px;
+    background: $color3;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    padding: 0 18px;
+    cursor: pointer;
+  }
+}
+@media (min-width: 768px) {
+  .subscribe {
+    padding: 64px 20px 139px;
+    &__left {
+      margin-left: -8px;
+    }
+    &__right {
+      margin-top: 80px;
+    }
+    &__user-text {
+      margin-top: 32px;
+      max-width: 359.45px;
+      font-size: 20px;
+      line-height: 24px;
+    }
+    &__title,
+    &__text {
+      max-width: 360px;
+    }
+    &__text {
+      font-size: 18px;
+      margin-top: 8px;
+      margin-bottom: 26px;
+    }
+    &__form {
+      height: 49px;
+      max-width: 360px;
+    }
+    &__input {
+      width: 256px;
+      background: $color13;
+      padding: 6px 21px;
+    }
+  }
+}
+@media (min-width: 1200px) {
+  .subscribe {
+    padding: 97px 20px 151px;
+    .container {
+      width: 1140px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+    }
+    &__right {
+      margin-top: 60px;
+      margin-right: 105px;
+    }
+    &__text {
+      margin-bottom: 37px;
+      margin-top: 0;
+    }
+
+    &__form {
+      max-width: 356px;
+      position: relative;
+      left: 9px;
+    }
+    &__input {
+      width: 254px;
+      background: $color13;
+      padding: 6px 21px;
+    }
+    &__button {
+      padding: 0 20px 0 21px;
+    }
+  }
+}
